@@ -1,0 +1,4 @@
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.Contracts\bin\Debug\UrlShortener.Data.Contracts.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.Contracts\bin\Debug\UrlShortener.Data.Contracts.pdb
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.Contracts\obj\Debug\UrlShortener.Data.Contracts.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.Contracts\obj\Debug\UrlShortener.Data.Contracts.pdb

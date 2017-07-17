@@ -1,0 +1,18 @@
+﻿@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+.vertical-center {
+  min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
+  min-height: 100vh; /* These two lines are counted as one :-)       */
+
+  display: flex;
+  align-items: center;
+}
+
+.center-block {
+    text-align: center;
+}
+
+.glyphicon-send
+{
+    font-size: 32px;
+}

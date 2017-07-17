@@ -1,0 +1,32 @@
+{
+  "version": "1.0.0",
+  "name": "UrlShortener",
+  "private": true,
+  "devDependencies": {
+    "babel": "6.5.2",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "6.9.0",
+    "babel-preset-react": "6.11.1",
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.6",
+    "webpack": "1.13.1"
+  },
+  "dependencies": {
+    "axios": "0.13.1",
+    "bootstrap": "^3.3.6",
+    "css-loader": "^0.28.4",
+    "jquery": "^3.2.1",
+    "react": "15.2.1",
+    "react-dom": "15.2.1",
+    "style-loader": "^0.18.2"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "-vs-binding": {
+    "AfterBuild": [
+      "build"
+    ]
+  }
+}

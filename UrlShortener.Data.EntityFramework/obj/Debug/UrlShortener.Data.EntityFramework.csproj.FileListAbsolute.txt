@@ -1,0 +1,12 @@
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\UrlShortener.Data.EntityFramework.dll.config
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\UrlShortener.Data.EntityFramework.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\UrlShortener.Data.EntityFramework.pdb
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\EntityFramework.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\EntityFramework.xml
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\obj\Debug\UrlShortener.Data.EntityFramework.csprojResolveAssemblyReference.cache
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\obj\Debug\UrlShortener.Data.EntityFramework.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\obj\Debug\UrlShortener.Data.EntityFramework.pdb
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\UrlShortener.Data.Contracts.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Data.EntityFramework\bin\Debug\UrlShortener.Data.Contracts.pdb

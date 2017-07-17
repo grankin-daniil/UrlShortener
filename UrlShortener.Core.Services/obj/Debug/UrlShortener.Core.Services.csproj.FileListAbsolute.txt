@@ -1,0 +1,10 @@
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\bin\Debug\UrlShortener.Core.Services.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\bin\Debug\UrlShortener.Core.Services.pdb
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\bin\Debug\UrlShortener.WebApi.Contracts.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\bin\Debug\UrlShortener.WebApi.Contracts.pdb
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\obj\Debug\UrlShortener.Core.Services.csprojResolveAssemblyReference.cache
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\obj\Debug\UrlShortener.Core.Services.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\obj\Debug\UrlShortener.Core.Services.pdb
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\bin\Debug\UrlShortener.Data.Contracts.dll
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\bin\Debug\UrlShortener.Data.Contracts.pdb
+D:\Projects\PowerDiary\UrlShortener\UrlShortener.Core.Services\obj\Debug\UrlShortener.Core.Services.rewritten
